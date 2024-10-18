@@ -36,4 +36,5 @@ Here are some ideas to get you started:
 
 
 <!-- BLOG-POST-LIST:START -->
+- [建站感言](http://www.dongshengye.online/archives/40)
 <!-- BLOG-POST-LIST:END -->

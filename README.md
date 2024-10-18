@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shenshenruye&layout=compact)
 
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
-![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&color=f5f5f5)
 
 [![GitHub Shenye](https://img.shields.io/github/followers/shenshenruye?label=follow&style=social)](https://github.com/shenshenruye)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://dongshengye.online/)](http://dongshengye.online/)
@@ -34,7 +32,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm passionate about connecting with like-minded individuals!
 
 
-### last post blog
+
+
+<h3 align="center">Latest POST BLOG </h3>
+
 <!-- BLOG-POST-LIST:START -->
 - [建站感言](http://www.dongshengye.online/archives/40)
 <!-- BLOG-POST-LIST:END -->

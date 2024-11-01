@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 <h3 align="center">Latest POST BLOG </h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [UniAD：端到端自动驾驶的里程碑](http://www.dongshengye.online/archives/84)
 - [对车辆规划与控制方法的探究](http://www.dongshengye.online/archives/79)
 - [建站感言](http://www.dongshengye.online/archives/40)
 <!-- BLOG-POST-LIST:END -->

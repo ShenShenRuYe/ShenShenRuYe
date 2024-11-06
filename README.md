@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on programming projects and AI applications.
 - 🤔 I’m looking for help with advanced algorithms and programming techniques.
 - 💬 Ask me about intelligent driving and programming.
-- 📫 How to reach me: [my website](dongshengye.online)
+- 📫 How to reach me: [my website](http://www.dongshengye.online)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm passionate about connecting with like-minded individuals!
 

@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 <h3 align="center">Latest POST BLOG </h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [综述：End-to-end Autonomous Driving： Challenges and Frontiers](http://www.dongshengye.online/archives/128)
 - [Bench2Drive：端到端自动驾驶闭环多能力测试基准](http://www.dongshengye.online/archives/114)
 - [Think2Drive：基于世界模型的端到端强化学习方案。](http://www.dongshengye.online/archives/111)
 - [UniAD：端到端自动驾驶的里程碑](http://www.dongshengye.online/archives/84)
 - [对车辆规划与控制方法的探究](http://www.dongshengye.online/archives/79)
-- [建站感言](http://www.dongshengye.online/archives/40)
 <!-- BLOG-POST-LIST:END -->

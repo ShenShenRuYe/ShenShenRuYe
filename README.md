@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 <h3 align="center">Latest POST BLOG </h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [[科研跟踪]MetaDriverse X UCLA组](http://www.dongshengye.online/archives/157)
 - [Human-AI Shared Control via Policy Dissection](http://www.dongshengye.online/archives/147)
 - [GameFormer：基于博弈论和transformer的决策规划统一方法](http://www.dongshengye.online/archives/144)
 - [综述：End-to-end Autonomous Driving： Challenges and Frontiers](http://www.dongshengye.online/archives/128)
 - [Bench2Drive：端到端自动驾驶闭环多能力测试基准](http://www.dongshengye.online/archives/114)
-- [Think2Drive：基于世界模型的端到端强化学习方案。](http://www.dongshengye.online/archives/111)
 <!-- BLOG-POST-LIST:END -->
